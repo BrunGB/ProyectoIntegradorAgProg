@@ -1,0 +1,19 @@
+.row{
+   padding: 25px; 
+}
+
+div{
+    background: #252525;
+    font-family: 'Barlow Condensed', sans-serif;
+    color: #fff;
+}
+
+h1, h3{
+    display: inline;
+}
+
+#informacion{
+    padding-left: 20px;
+}
+
+
